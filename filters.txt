@@ -1,0 +1,6 @@
+# https://adguard.com/kb/general/ad-filtering/create-own-filters/
+@@||dna.fi^$document
+@@||live.com^$document
+@@||op.fi^$document
+@@||suomi.fi^$document
+@@||turva.fi^$document

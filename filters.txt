@@ -1,6 +1,17 @@
+@@||ajanvaraus.silmaasema.fi^$document
+@@||bilstein.com^$document
+@@||cp.ultra.cc^$document
 @@||dna.fi^$document
+@@||github.com^$document
+@@||hobbyfactory.fi^$document
+@@||hubauer-shop.de^$document
+@@||k-rauta.fi^$document
+@@||kitee.daisyfamily.fi^$document
 @@||live.com^$document
+@@||login.kesko.fi^$document
 @@||op.fi^$document
+@@||pilke.daisyfamily.fi^$document
 @@||suomi.fi^$document
 @@||turva.fi^$document
 @@||www.ident.nets.eu$document
+@@||www.k-rauta.fi^$document

@@ -13,5 +13,7 @@
 @@||pilke.daisyfamily.fi^$document
 @@||suomi.fi^$document
 @@||turva.fi^$document
+@@||www.horizonhobby.de^$document
+@@||www.horizonhobby.fr^$document
 @@||www.ident.nets.eu$document
 @@||www.k-rauta.fi^$document

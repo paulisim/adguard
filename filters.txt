@@ -12,6 +12,7 @@
 @@||op.fi^$document
 @@||pilke.daisyfamily.fi^$document
 @@||suomi.fi^$document
+@@||tunnistus.telia.fi^$document
 @@||turva.fi^$document
 @@||www.horizonhobby.de^$document
 @@||www.horizonhobby.fr^$document

@@ -20,3 +20,4 @@
 @@||www.ident.nets.eu$document
 @@||www.k-rauta.fi^$document
 @@||www.motonet.fi^$document
+@@||www.paypal.com^$document

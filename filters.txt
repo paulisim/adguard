@@ -15,6 +15,7 @@
 @@||tunnistus.telia.fi^$document
 @@||turva.fi^$document
 @@||www.arrma-rc.com^$document
+@@||www.fixusnet.fi^$document
 @@||www.horizonhobby.de^$document
 @@||www.horizonhobby.fr^$document
 @@||www.ident.nets.eu$document
